@@ -1,0 +1,59 @@
+{
+  "name": "coopergym",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@nartc/react-native-barcode-mask": "^1.2.0",
+    "@react-native-community/async-storage": "^1.12.0",
+    "@react-native-community/picker": "^1.8.0",
+    "@react-native-firebase/storage": "^7.4.3",
+    "lottie-ios": "3.1.8",
+    "lottie-react-native": "^3.5.0",
+    "react": "16.13.1",
+    "react-native": "0.63.2",
+    "react-native-awesome-alerts": "^1.4.1",
+    "react-native-camera": "^3.40.0",
+    "react-native-fab": "^1.0.17",
+    "react-native-image-picker": "^2.3.4",
+    "react-native-masked-text": "^1.13.0",
+    "react-native-picker-select": "^8.0.0",
+    "react-native-progress": "^4.1.2",
+    "react-native-sectioned-multi-select": "^0.7.2",
+    "react-native-sortable-list": "^0.0.24",
+    "react-native-svg": "^12.1.0",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-swipeable": "^0.6.0",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-video": "^5.1.0-alpha8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/runtime": "^7.11.2",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-firebase/app": "^8.4.1",
+    "@react-native-firebase/auth": "^9.2.1",
+    "@react-native-firebase/database": "^7.5.5",
+    "@react-navigation/native": "^5.7.0",
+    "@react-navigation/stack": "^5.7.0",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.9.0",
+    "jest": "^26.4.2",
+    "metro-react-native-babel-preset": "^0.63.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^1.9.0",
+    "react-native-safe-area-context": "^3.1.1",
+    "react-native-screens": "^2.9.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

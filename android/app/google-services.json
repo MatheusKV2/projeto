@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695295190582",
+    "firebase_url": "https://coopergym-9e46b.firebaseio.com",
+    "project_id": "coopergym-9e46b",
+    "storage_bucket": "coopergym-9e46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695295190582:android:6d183864afcbed87301a97",
+        "android_client_info": {
+          "package_name": "com.coopergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695295190582-am8f5odqrjb2qgjfv1o7vn9nl10o968o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coopergym",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "695295190582-crqk73dgcmkfdggc78b8cddg82vcblct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_uW0a9Ya9SfYEDKuPwOd3vvUq7W9FE9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695295190582-crqk73dgcmkfdggc78b8cddg82vcblct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
